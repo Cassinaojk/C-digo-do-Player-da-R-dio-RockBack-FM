@@ -29,9 +29,15 @@ Todos os arquivos do player estão disponíveis na aba Releases deste repositór
 
 <img width="228" height="162" alt="Captura de tela de 2026-11-09 18-59-25" src="https://github.com/user-attachments/assets/9d605884-e360-4c55-b311-e7275f64187b" />
 
+
+
 <img width="485" height="237" alt="Captura de tela de 2026-11-09 19-00-45" src="https://github.com/user-attachments/assets/fce0f462-39ef-4638-a23e-cc5cfa41c280" />
 
+
+
 <img width="214" height="64" alt="Captura de tela de 2026-11-09 19-03-31" src="https://github.com/user-attachments/assets/4aa34ca3-b0e8-474d-97b3-7b724088edbe" />
+
+
 
 <img width="214" height="64" alt="Captura de tela de 2026-11-09 19-04-56" src="https://github.com/user-attachments/assets/7cd06da9-fe40-4b7c-bbd7-d2570003e690" />
 
