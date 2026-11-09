@@ -1,0 +1,18 @@
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
+<script type="text/javascript">
+MRP.insert({
+'url':'https://stream.zeno.fm/bl80vqtgsemuv',
+'volume':100,
+'autoplay':false,
+'forceHTML5':true,
+'jsevents':true,
+'buffering':0,
+'title':'Rádio RockBack FM',
+'wmode':'transparent',
+'skin':'arvyskin',
+'width':560,
+'height':30
+});
+</script>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
